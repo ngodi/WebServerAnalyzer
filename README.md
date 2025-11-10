@@ -1,6 +1,6 @@
-# Ruby App
+# WebServerAnalyzer
 
-The Ruby App is a Ruby command line application that
+The WebServerAnalyzer is a Ruby command line application that
 
 - reads server logs from a provided logs file,
 - processes/classifies the input,
